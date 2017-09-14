@@ -1,0 +1,9 @@
+/KD.Net.CMS.sln
+/.vs
+obj
+bin
+WebApplication1/bin
+WebApplication1/obj
+node_modules/
+*.lock
+
